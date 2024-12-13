@@ -1,5 +1,5 @@
-Make sure to unzip all of the files, before running the code. 
+Make sure to unzip all of the files before running the code. 
 
-The demo is Live_Demo.ipynb. 
+The demo file is titled Live_Demo.ipynb.
 
-To train use YOLO.ipynb
+To train the model, use the file titled YOLO.ipynb
